@@ -52,6 +52,7 @@ The functionality is provided through the following packages:
    obspy.io.segy
    obspy.io.sh
    obspy.io.wav
+   obspy.io.win32
    obspy.io.y
 
 .. rubric:: Event Data Import/Export Plug-ins
